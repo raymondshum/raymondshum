@@ -10,13 +10,13 @@ My goal is to develop towards a professional career in DevOps and related fields
 
 ## Take a look at some of my projects:
 
-[Discogs Album Collection](https://github.com/InnovaTree/cst-336-final-project-discogs)
+### [Discogs Album Collection](https://github.com/InnovaTree/cst-336-final-project-discogs)
 
 - An album collection website that makes use of the Discogs API to let users find albums, build their collection and read/write reviews. 
 
 - Built using Node.js, Express.js and MySQL.
 
-[Healthcare Database](https://github.com/raymondshum/cst-363-final-database-design)
+### [Healthcare Database](https://github.com/raymondshum/cst-363-final-database-design)
 
 - A relational database designed for a (fictional) healthcare organization, allowing them to track:
 
@@ -28,7 +28,7 @@ My goal is to develop towards a professional career in DevOps and related fields
 
 - Built using MySQL, Java and Spring Boot with the front end being HTML and CSS with Bootstrap
 
-[Simple ERP](https://github.com/raymondshum/cst-338-simple-erp)
+### [Simple ERP](https://github.com/raymondshum/cst-338-simple-erp)
 
 - An employee management system built in the MVC design pattern, which would allow a user tp view and manage their employee records, associated sales records and overall sales history.
 
