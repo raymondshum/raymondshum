@@ -28,7 +28,7 @@ My goal is to develop towards a professional career in DevOps and related fields
 
 ### [Simple ERP](https://github.com/raymondshum/cst-338-simple-erp)
 
-- An employee management system built in the MVC design pattern, which would allow a user tp view and manage their employee records, associated sales records and overall sales history.
+- An employee management system built in the MVC design pattern, which would allow a user to view and manage their employee records, associated sales records and overall sales history.
 
 - Built using Java.
 
