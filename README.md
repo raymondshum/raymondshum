@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ray!
 
-My goal is to develop towards a professional career in DevOps and related fields. I'm always open to opportunities to learn, collaborate or contribute, so please feel free to contact me.
+My goal is to develop towards a professional career in DevOps and related fields. I'm always open to opportunities to learn, collaborate or contribute, so please feel free to contact me if our interests align.
 
 ---
 
