@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Ray!
 
-I'm a Computer science Student at California State, Monterey Bay University. Right now, it feels like I'm learning a little bit about everything, which is great (and I guess my repositories reflect that)! 
-
 My goal is to develop towards a professional career in DevOps and related fields. I'm always open to opportunities to learn, collaborate or contribute, so please feel free to contact me.
 
 ---
